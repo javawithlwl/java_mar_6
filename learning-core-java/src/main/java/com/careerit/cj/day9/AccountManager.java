@@ -16,18 +16,18 @@ public class AccountManager {
 
     double totalBalance = 0;
     for(Account acc:list){
-        totalBalance += acc.balance;
+        totalBalance += acc.getBalance();
     }
     // Display max balance customer(s) details
-    double maxAmount = list.get(0).balance;
+    double maxAmount = list.get(0).getBalance();
     for(Account acc:list){
-        if(maxAmount < acc.balance){
-            maxAmount = acc.balance;
+        if(maxAmount < acc.getBalance()){
+            maxAmount = acc.getBalance();
         }
     }
     System.out.println("Max balance customer details: (max amount is "+maxAmount+")");
     for(Account acc:list){
-        if(acc.balance == maxAmount){
+        if(acc.getBalance() == maxAmount){
             acc.showDetails();
             System.out.println("-".repeat(100));
         }

@@ -3,9 +3,9 @@ package com.careerit.cj.day9;
 
 public class Account {
 
-  String accNum;
-  String name;
-  double balance;
+  private String accNum;
+  private String name;
+  private double balance;
 
   public Account(String accNum, String name, double balance) {
     this.accNum = accNum;
@@ -43,4 +43,27 @@ public class Account {
         return accNum;
   }
 
+  public String getAccNum() {
+    return accNum;
+  }
+
+  public void setAccNum(String accNum) {
+    this.accNum = accNum;
+  }
+
+  public String getName() {
+    return name;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public double getBalance() {
+    return balance;
+  }
+
+  public void setBalance(double balance) {
+    this.balance = balance;
+  }
 }
