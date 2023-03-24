@@ -1,5 +1,6 @@
 package com.careerit.cj.day10;
 
+import java.util.StringJoiner;
 import java.util.UUID;
 
 public class Player {
@@ -57,5 +58,17 @@ public class Player {
 
     public void setAmount(double amount) {
         this.amount = amount;
+    }
+
+    @Override
+    public String toString() {
+        return new StringJoiner(", ", Player.class.getSimpleName() + "[", "]")
+            .add("id=" + id)
+            .add("name='" + name + "'")
+            .add("role='" + role + "'")
+            .add("country='" + country + "'")
+            .add("team='" + team + "'")
+            .add("amount=" + amount)
+            .toString();
     }
 }
