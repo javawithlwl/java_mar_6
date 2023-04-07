@@ -8,12 +8,11 @@
     <name>java_mar_6</name>
     <modules>
         <module>learning-core-java</module>
-        <module>learning-jdbc</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
+        <maven.compiler.source>20</maven.compiler.source>
+        <maven.compiler.target>20</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
