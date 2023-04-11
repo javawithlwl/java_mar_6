@@ -1,17 +1,18 @@
-package com.careerit.cj.day21;
+package com.careerit.cj.day21.playerstats;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
 @AllArgsConstructor
+@NoArgsConstructor
+@ToString
+@Builder
 public class Player {
 
   private String name;
   private String role;
-  private String amount;
+  private double amount;
   private String country;
   private String team;
 
