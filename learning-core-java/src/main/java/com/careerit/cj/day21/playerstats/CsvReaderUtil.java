@@ -37,6 +37,7 @@ public final class CsvReaderUtil {
           .team(team)
           .amount(amount)
           .role(role)
+          .country(country)
           .team(team).build();
       players.add(player);
     }
