@@ -8,6 +8,7 @@
     <name>java_mar_6</name>
     <modules>
         <module>learning-core-java</module>
+        <module>cj-ipl-stats</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

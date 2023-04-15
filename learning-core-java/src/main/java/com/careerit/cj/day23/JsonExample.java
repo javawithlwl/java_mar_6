@@ -1,12 +1,9 @@
 package com.careerit.cj.day23;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class JsonExample {
@@ -25,7 +22,7 @@ public class JsonExample {
   public String login(String username, String password) {
       if(map.get(username)!=null){
           User user = map.get(username);
-          if(user.getPassword().equals(password)){
+          if(user!=null && user.getPassword().equals(password)){
             return user.getUsername();
           }
       }
