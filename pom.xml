@@ -9,6 +9,8 @@
     <modules>
         <module>learning-core-java</module>
         <module>cj-ipl-stats</module>
+        <module>wallet-app</module>
+        <module>quiz-app</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

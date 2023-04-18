@@ -1,0 +1,16 @@
+#1
+Which is not a valid method of java.lang.String?
+1. length
+2. reverse
+3. subString
+4. toUpperCase
+Answer: 2
+#2
+Which the result of 3 + 4 * 2?
+1. 14
+2. 10
+3. 11
+4. 22
+Answer: 3
+
+
