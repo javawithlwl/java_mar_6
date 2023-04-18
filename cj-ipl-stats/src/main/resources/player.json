@@ -1,0 +1,1696 @@
+[
+    {
+        "name": "MS Dhoni",
+        "role": "WK-Batsman",
+        "amount": "185000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Ruturaj Gaikwad",
+        "role": "Batsman",
+        "amount": "60000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Ambati Rayudu",
+        "role": "WK- Batsman",
+        "amount": "67500000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Devon Conway",
+        "role": "Batsman",
+        "amount": "10000000",
+        "country": "New Zealand",
+        "team": "CSK"
+    },
+    {
+        "name": "Subhranshu Senapati",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Deepak Chahar",
+        "role": "Bowler",
+        "amount": "140000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Tushar Deshpande",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Maheesh Theekshana",
+        "role": "Bowler",
+        "amount": "7000000",
+        "country": "Sri Lanka",
+        "team": "CSK"
+    },
+    {
+        "name": "Simranjeet Singh",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Matheesha Pathirana",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "Sri Lanka",
+        "team": "CSK"
+    },
+    {
+        "name": "Mukesh Choudhary",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Prashant Solanki",
+        "role": "Bowler",
+        "amount": "12000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Mitchell Santner",
+        "role": "Bowler",
+        "amount": "19000000",
+        "country": "New Zealand",
+        "team": "CSK"
+    },
+    {
+        "name": "Rajvardhan Hangargekar",
+        "role": "Bowler",
+        "amount": "15000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "role": "All-rounder",
+        "amount": "160000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Moeen Ali",
+        "role": "All-rounder",
+        "amount": "185000000",
+        "country": "England",
+        "team": "CSK"
+    },
+    {
+        "name": "Shivam Dube",
+        "role": "All-rounder",
+        "amount": "40000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Dwaine Pretorius",
+        "role": "All-rounder",
+        "amount": "5000000",
+        "country": "South Africa",
+        "team": "CSK"
+    },
+    {
+        "name": "Ben Stokes",
+        "role": "All-rounder",
+        "amount": "162500000",
+        "country": "England",
+        "team": "CSK"
+    },
+    {
+        "name": "A Rahane",
+        "role": "Batsman",
+        "amount": "5000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Kyle Jamieson",
+        "role": "Bowler",
+        "amount": "10000000",
+        "country": "New Zealand",
+        "team": "CSK"
+    },
+    {
+        "name": "Nishant Sindhu",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Shaik Rasheed",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Ajay Mandal",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Bhagath Verma",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "CSK"
+    },
+    {
+        "name": "Rishabh Pant",
+        "role": "WT-Batsman",
+        "amount": "160000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Prithvi Shaw",
+        "role": "Batsman",
+        "amount": "75000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "David Warner",
+        "role": "Batsman",
+        "amount": "62500000",
+        "country": "Australia",
+        "team": "DC"
+    },
+    {
+        "name": "Sarfaraz Khan",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Yash Dhull",
+        "role": "Batsman",
+        "amount": "5000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Rovman Powell",
+        "role": "Batsman",
+        "amount": "28000000",
+        "country": "West Indies",
+        "team": "DC"
+    },
+    {
+        "name": "Anrich Nortje",
+        "role": "Bowler",
+        "amount": "65000000",
+        "country": "South Africa",
+        "team": "DC"
+    },
+    {
+        "name": "Kamlesh Nagarkoti",
+        "role": "Bowler",
+        "amount": "11000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Mustafizur Rahman",
+        "role": "Bowler",
+        "amount": "20000000",
+        "country": "Bangladesh",
+        "team": "DC"
+    },
+    {
+        "name": "Lungi Ngidi",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "South Africa",
+        "team": "DC"
+    },
+    {
+        "name": "Khaleel Ahmed",
+        "role": "Bowler",
+        "amount": "52500000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Chetan Sakariya",
+        "role": "Bowler",
+        "amount": "42000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Praveen Dubey",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Kuldeep Yadav",
+        "role": "Bowler",
+        "amount": "20000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Axar Patel",
+        "role": "All-rounder",
+        "amount": "90000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Mitchell Marsh",
+        "role": "All-rounder",
+        "amount": "65000000",
+        "country": "Australia",
+        "team": "DC"
+    },
+    {
+        "name": "Lalit Yadav",
+        "role": "All-rounder",
+        "amount": "6500000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Ripal Patel",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Vicky Ostwal",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Aman Khan",
+        "role": "Allrounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Ishant Sharma",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Phil Salt",
+        "role": "WT-Batsman",
+        "amount": "20000000",
+        "country": "England",
+        "team": "DC"
+    },
+    {
+        "name": "Mukesh Kumar",
+        "role": "Bowler",
+        "amount": "55000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Manish Pandey",
+        "role": "Batsman",
+        "amount": "24000000",
+        "country": "India",
+        "team": "DC"
+    },
+    {
+        "name": "Rilee Rossouw",
+        "role": "Batsman",
+        "amount": "46000000",
+        "country": "South Africa",
+        "team": "DC"
+    },
+    {
+        "name": "Shubman Gill",
+        "role": "Batsman",
+        "amount": "80000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Sai Sudarshan",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Abhinav Sadarangani",
+        "role": "Batsman",
+        "amount": "26000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "David Miller",
+        "role": "Batsman",
+        "amount": "30000000",
+        "country": "South Africa",
+        "team": "GT"
+    },
+    {
+        "name": "Matthew Wade",
+        "role": "WK-Batsman",
+        "amount": "24000000",
+        "country": "Australia",
+        "team": "GT"
+    },
+    {
+        "name": "Wriddhiman Saha",
+        "role": "WK-Batsman",
+        "amount": "19000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Rashid Khan",
+        "role": "Bowler",
+        "amount": "150000000",
+        "country": "Afghanistan",
+        "team": "GT"
+    },
+    {
+        "name": "Darshan Nalkande",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Yash Dayal",
+        "role": "Bowler",
+        "amount": "32000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Pradeep Sangwan",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Alzarri Joseph",
+        "role": "Bowler",
+        "amount": "24000000",
+        "country": "West Indies",
+        "team": "GT"
+    },
+    {
+        "name": "R Sai Kishore",
+        "role": "Bowler",
+        "amount": "30000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Noor Ahmad",
+        "role": "Bowler",
+        "amount": "3000000",
+        "country": "Afghanistan",
+        "team": "GT"
+    },
+    {
+        "name": "Mohammed Shami",
+        "role": "Bowler",
+        "amount": "62500000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Hardik Pandya",
+        "role": "All-rounder",
+        "amount": "150000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Vijay Shankar",
+        "role": "All-rounder",
+        "amount": "14000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Jayant Yadav",
+        "role": "All-rounder",
+        "amount": "17000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Rahul Tewatia",
+        "role": "All-rounder",
+        "amount": "90000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Kane Williamson",
+        "role": "Batsman",
+        "amount": "20000000",
+        "country": "New Zealand",
+        "team": "GT"
+    },
+    {
+        "name": "Odean Smith",
+        "role": "All-rounder",
+        "amount": "5000000",
+        "country": "West Indies",
+        "team": "GT"
+    },
+    {
+        "name": "KS Bharat",
+        "role": "WK-Batsman",
+        "amount": "12000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Shivam Mavi",
+        "role": "Bowler",
+        "amount": "60000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Urvil Patel",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Joshua Little",
+        "role": "Bowler",
+        "amount": "44000000",
+        "country": "Ireland",
+        "team": "GT"
+    },
+    {
+        "name": "Mohit Sharma",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "GT"
+    },
+    {
+        "name": "Shreyas Iyer",
+        "role": "Batsman",
+        "amount": "122500000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Nitish Rana",
+        "role": "Batsman",
+        "amount": "80000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Rinku Singh",
+        "role": "Batsman",
+        "amount": "5500000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Varun Chakravarty",
+        "role": "Bowlers",
+        "amount": "80000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Tim Southee",
+        "role": "Bowlers",
+        "amount": "15000000",
+        "country": "New Zealand",
+        "team": "KKR"
+    },
+    {
+        "name": "Umesh Yadav",
+        "role": "Bowlers",
+        "amount": "20000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Andre Russell",
+        "role": "All-rounder",
+        "amount": "120000000",
+        "country": "West Indies",
+        "team": "KKR"
+    },
+    {
+        "name": "Venkatesh Iyer",
+        "role": "All-rounder",
+        "amount": "80000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Sunil Narine",
+        "role": "All-rounder",
+        "amount": "60000000",
+        "country": "West Indies",
+        "team": "KKR"
+    },
+    {
+        "name": "Anukul Roy",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Shardul Thakur",
+        "role": "Bowler",
+        "amount": "107500000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Lockie Ferguson",
+        "role": "Bowler",
+        "amount": "100000000",
+        "country": "New Zealand",
+        "team": "KKR"
+    },
+    {
+        "name": "Rahmanullah Gurbaz",
+        "role": "WK-Batsman",
+        "amount": "5000000",
+        "country": "Afghanistan",
+        "team": "KKR"
+    },
+    {
+        "name": "Harshit Rana",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "N. Jagadeesan",
+        "role": "WK-Batsman",
+        "amount": "9000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Vaibhav Arora",
+        "role": "Bowler",
+        "amount": "6000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Suyash Sharma",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "David Wiese",
+        "role": "All-rounder",
+        "amount": "10000000",
+        "country": "Namibia",
+        "team": "KKR"
+    },
+    {
+        "name": "Kulwant Khejroliya",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Litton Das",
+        "role": "WK-Batsman",
+        "amount": "5000000",
+        "country": "Bangladesh",
+        "team": "KKR"
+    },
+    {
+        "name": "Mandeep Singh",
+        "role": "Batsman",
+        "amount": "5000000",
+        "country": "India",
+        "team": "KKR"
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "role": "All-rounder",
+        "amount": "15000000",
+        "country": "Bangladesh",
+        "team": "KKR"
+    },
+    {
+        "name": "Manan Vohra",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "KL Rahul",
+        "role": "WK-Batsman",
+        "amount": "170000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Quinton de Kock",
+        "role": "WK-Batsman",
+        "amount": "67500000",
+        "country": "South Africa",
+        "team": "LSG"
+    },
+    {
+        "name": "Ravi Bishnoi",
+        "role": "Bowler",
+        "amount": "40000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Mohsin Khan",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Mayank Yadav",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Avesh Khan",
+        "role": "Bowler",
+        "amount": "100000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Marcus Stoinis",
+        "role": "All-rounder",
+        "amount": "92000000",
+        "country": "Australia",
+        "team": "LSG"
+    },
+    {
+        "name": "Kyle Mayers",
+        "role": "All-rounder",
+        "amount": "5000000",
+        "country": "West Indies",
+        "team": "LSG"
+    },
+    {
+        "name": "Karan Sharma",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "K Gowtham",
+        "role": "All-rounder",
+        "amount": "9000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Ayush Badoni",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Deepak Hooda",
+        "role": "All-rounder",
+        "amount": "57500000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Krunal Pandya",
+        "role": "All-rounder",
+        "amount": "82500000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Nicholas Pooran",
+        "role": "WK-Batsman",
+        "amount": "160000000",
+        "country": "West Indies",
+        "team": "LSG"
+    },
+    {
+        "name": "Jaydev Unadkat",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Yash Thakur",
+        "role": "Bowler",
+        "amount": "4500000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Romario Shepherd",
+        "role": "All-rounder",
+        "amount": "5000000",
+        "country": "West Indies",
+        "team": "LSG"
+    },
+    {
+        "name": "Daniel Sams",
+        "role": "All-rounder",
+        "amount": "7500000",
+        "country": "Australia",
+        "team": "LSG"
+    },
+    {
+        "name": "Amit Mishra",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Prerak Mankad",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Swapnil Singh",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Naveen-ul-Haq",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "Afghanistan",
+        "team": "LSG"
+    },
+    {
+        "name": "Yudhvir Charak",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "LSG"
+    },
+    {
+        "name": "Rohit Sharma",
+        "role": "Batsman",
+        "amount": "160000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "role": "Batsman",
+        "amount": "80000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Tilak Varma",
+        "role": "Batsman",
+        "amount": "17000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Ramandeep Singh",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Dewald Brevis",
+        "role": "Batsman",
+        "amount": "30000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Ishan Kishan",
+        "role": "WK-Batsman",
+        "amount": "152500000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "role": "Bowler",
+        "amount": "120000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Kumar Kartikeya Singh",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Jofra Archer",
+        "role": "Bowler",
+        "amount": "80000000",
+        "country": "England",
+        "team": "MI"
+    },
+    {
+        "name": "Hrithik Shokeen",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Arjun Tendulkar",
+        "role": "All-rounder",
+        "amount": "3000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Tim David",
+        "role": "All-rounder",
+        "amount": "82500000",
+        "country": "Singapore",
+        "team": "MI"
+    },
+    {
+        "name": "Tristan Stubbs",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "South Africa",
+        "team": "MI"
+    },
+    {
+        "name": "Arshad Khan",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Akash Madhwal",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Jason Behrendorff",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "Australia",
+        "team": "MI"
+    },
+    {
+        "name": "Cameron Green",
+        "role": "All-rounder",
+        "amount": "175000000",
+        "country": "Australia",
+        "team": "MI"
+    },
+    {
+        "name": "Jhye Richardson",
+        "role": "Bowler",
+        "amount": "15000000",
+        "country": "Australia",
+        "team": "MI"
+    },
+    {
+        "name": "Piyush Chawla",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Duan Jansen",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "South Africa",
+        "team": "MI"
+    },
+    {
+        "name": "Shams Mulani",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Nehal Wadhera",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Vishnu Vinod",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Raghav Goyal",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "MI"
+    },
+    {
+        "name": "Yashasvi Jaiswal",
+        "role": "Batsman",
+        "amount": "40000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Devdutt Padikkal",
+        "role": "Batsman",
+        "amount": "77500000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Shimron Hetmyer",
+        "role": "Batsman",
+        "amount": "85000000",
+        "country": "West Indies",
+        "team": "RR"
+    },
+    {
+        "name": "Sanju Samson",
+        "role": "WK-Batsman",
+        "amount": "140000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Jos Buttler",
+        "role": "WK-Batsman",
+        "amount": "100000000",
+        "country": "England",
+        "team": "RR"
+    },
+    {
+        "name": "Dhruv Jurel",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Kuldip Yadav",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Navdeep Saini",
+        "role": "Bowler",
+        "amount": "26000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Kuldeep Sen",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Obed McCoy",
+        "role": "Bowler",
+        "amount": "7500000",
+        "country": "West Indies",
+        "team": "RR"
+    },
+    {
+        "name": "KC Kariappa",
+        "role": "Bowler",
+        "amount": "3000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "role": "Bowler",
+        "amount": "65000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Prasidh Krishna",
+        "role": "Bowler",
+        "amount": "100000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Trent Boult",
+        "role": "Bowler",
+        "amount": "80000000",
+        "country": "New Zealand",
+        "team": "RR"
+    },
+    {
+        "name": "Riyan Parag",
+        "role": "All-rounder",
+        "amount": "38000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Ravichandran Ashwin",
+        "role": "All-rounder",
+        "amount": "50000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Jason Holder",
+        "role": "All-rounder",
+        "amount": "57500000",
+        "country": "West Indies",
+        "team": "RR"
+    },
+    {
+        "name": "Donovan Ferreira",
+        "role": "WK-Batsman",
+        "amount": "5000000",
+        "country": "South Africa",
+        "team": "RR"
+    },
+    {
+        "name": "Kunal Rathore",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Adam Zampa",
+        "role": "Bowler",
+        "amount": "15000000",
+        "country": "Australia",
+        "team": "RR"
+    },
+    {
+        "name": "KM Asif",
+        "role": "Bowler",
+        "amount": "3000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Murugan Ashwin",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Akash Vashisht",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Abdul P A",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RR"
+    },
+    {
+        "name": "Joe Root",
+        "role": "Batter",
+        "amount": "10000000",
+        "country": "England",
+        "team": "RR"
+    },
+    {
+        "name": "Virat Kohli",
+        "role": "Batsman",
+        "amount": "150000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Suyash Prabhudessai",
+        "role": "Batsman",
+        "amount": "3000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Faf du Plessis",
+        "role": "Batsman",
+        "amount": "70000000",
+        "country": "South Africa",
+        "team": "RCB"
+    },
+    {
+        "name": "Rajat Patidar",
+        "role": "Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Anuj Rawat",
+        "role": "WK-Batsman",
+        "amount": "34000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Finn Allen",
+        "role": "WK-Batsman",
+        "amount": "8000000",
+        "country": "New Zealand",
+        "team": "RCB"
+    },
+    {
+        "name": "Dinesh Karthik",
+        "role": "WK-Batsman",
+        "amount": "55000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Mohammed Siraj",
+        "role": "Bowler",
+        "amount": "70000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Karn Sharma",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Siddarth Kaul",
+        "role": "Bowler",
+        "amount": "7500000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Josh Hazlewood",
+        "role": "Bowler",
+        "amount": "77500000",
+        "country": "Australia",
+        "team": "RCB"
+    },
+    {
+        "name": "Harshal Patel",
+        "role": "Bowler",
+        "amount": "107500000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Akash Deep",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "role": "All-rounder",
+        "amount": "110000000",
+        "country": "Australia",
+        "team": "RCB"
+    },
+    {
+        "name": "David Willey",
+        "role": "All-rounder",
+        "amount": "20000000",
+        "country": "England",
+        "team": "RCB"
+    },
+    {
+        "name": "Mahipal Lomror",
+        "role": "All-rounder",
+        "amount": "9500000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Shahbaz Ahmed",
+        "role": "All-rounder",
+        "amount": "24000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Wanindu Hasaranga",
+        "role": "All-rounder",
+        "amount": "107500000",
+        "country": "Sri Lanka",
+        "team": "RCB"
+    },
+    {
+        "name": "Reece Topley",
+        "role": "Bowler",
+        "amount": "19000000",
+        "country": "England",
+        "team": "RCB"
+    },
+    {
+        "name": "Will Jacks",
+        "role": "Allrounder",
+        "amount": "32000000",
+        "country": "England",
+        "team": "RCB"
+    },
+    {
+        "name": "Himanshu Sharma",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Manoj Bhandage",
+        "role": "Allrounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Rajan Kumar",
+        "role": "Bowler",
+        "amount": "7000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Avinash Singh",
+        "role": "Bowler",
+        "amount": "6000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "R Sonu Yadav",
+        "role": "Allrounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "RCB"
+    },
+    {
+        "name": "Aiden Markram",
+        "role": "Batsman",
+        "amount": "26000000",
+        "country": "South Africa",
+        "team": "SRH"
+    },
+    {
+        "name": "Rahul Tripathi",
+        "role": "Batsman",
+        "amount": "85000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Glenn Phillips",
+        "role": "WK-Batsman",
+        "amount": "15000000",
+        "country": "New Zealand",
+        "team": "SRH"
+    },
+    {
+        "name": "Umran Malik",
+        "role": "Bowler",
+        "amount": "40000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Fazal Haq Farooqi",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "Afghanistan",
+        "team": "SRH"
+    },
+    {
+        "name": "Kartik Tyagi",
+        "role": "Bowler",
+        "amount": "40000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "T Natarajan",
+        "role": "Bowler",
+        "amount": "40000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Bhuvneshwar Kumar",
+        "role": "Bowler",
+        "amount": "42000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Abdul Samad",
+        "role": "All-rounder",
+        "amount": "40000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Marco Jansen",
+        "role": "All-rounder",
+        "amount": "42000000",
+        "country": "South Africa",
+        "team": "SRH"
+    },
+    {
+        "name": "Abhishek Sharma",
+        "role": "All-rounder",
+        "amount": "65000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Washington Sundar",
+        "role": "All-rounder",
+        "amount": "87500000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Harry Brook",
+        "role": "Batsman",
+        "amount": "132500000",
+        "country": "England",
+        "team": "SRH"
+    },
+    {
+        "name": "Mayank Agarwal",
+        "role": "Batsman",
+        "amount": "82500000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Heich Klaasen",
+        "role": "WK-Batsman",
+        "amount": "52000000",
+        "country": "South Africa",
+        "team": "SRH"
+    },
+    {
+        "name": "Adil Rashid",
+        "role": "Bowler",
+        "amount": "20000000",
+        "country": "England",
+        "team": "SRH"
+    },
+    {
+        "name": "Mayank Markande",
+        "role": "Bowler",
+        "amount": "5000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Vivrant Sharma",
+        "role": "All-rounder",
+        "amount": "26000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Samarth Vyas",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Sanvir Singh",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Upendra Yadav",
+        "role": "WK-Batsman",
+        "amount": "2500000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Mayank Dagar",
+        "role": "All-rounder",
+        "amount": "18000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Nitish Kumar Reddy",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Akeal Hosein",
+        "role": "Bowler",
+        "amount": "10000000",
+        "country": "West Indies",
+        "team": "SRH"
+    },
+    {
+        "name": "Anmolpreet Singh",
+        "role": "Batman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "SRH"
+    },
+    {
+        "name": "Bhanuka Rajapaksa",
+        "role": "Batsman",
+        "amount": "5000000",
+        "country": "Sri Lanka",
+        "team": "PBKS"
+    },
+    {
+        "name": "Shahrukh Khan",
+        "role": "Batsman",
+        "amount": "90000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "role": "Batsman",
+        "amount": "82500000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Prabhsimran Singh",
+        "role": "WK-Batsman",
+        "amount": "6000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Jitesh Sharma",
+        "role": "WK-Batsman",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Jonny Bairstow",
+        "role": "WK-Batsman",
+        "amount": "67500000",
+        "country": "England",
+        "team": "PBKS"
+    },
+    {
+        "name": "Arshdeep Singh",
+        "role": "Bowler",
+        "amount": "40000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Raj Bawa",
+        "role": "Bowler",
+        "amount": "20000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Nathan Ellis",
+        "role": "Bowler",
+        "amount": "7500000",
+        "country": "Australia",
+        "team": "PBKS"
+    },
+    {
+        "name": "Harpreet Brar",
+        "role": "Bowler",
+        "amount": "38000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Rahul Chahar",
+        "role": "Bowler",
+        "amount": "52500000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Kagiso Rabada",
+        "role": "Bowler",
+        "amount": "92500000",
+        "country": "South Africa",
+        "team": "PBKS"
+    },
+    {
+        "name": "Baltej Singh",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Liam Livingstone",
+        "role": "All-rounder",
+        "amount": "115000000",
+        "country": "England",
+        "team": "PBKS"
+    },
+    {
+        "name": "Rishi Dhawan",
+        "role": "All-rounder",
+        "amount": "5500000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Atharva Taide",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Sam Curran",
+        "role": "All-rounder",
+        "amount": "185000000",
+        "country": "England",
+        "team": "PBKS"
+    },
+    {
+        "name": "Sikandar Raza",
+        "role": "All-rounder",
+        "amount": "5000000",
+        "country": "Zimbabwe",
+        "team": "PBKS"
+    },
+    {
+        "name": "Harpreet Bhatia",
+        "role": "Batsman",
+        "amount": "4000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Vidwath Kaverappa",
+        "role": "Bowler",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Mohit Rathee",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    },
+    {
+        "name": "Shivam Singh",
+        "role": "All-rounder",
+        "amount": "2000000",
+        "country": "India",
+        "team": "PBKS"
+    }
+]

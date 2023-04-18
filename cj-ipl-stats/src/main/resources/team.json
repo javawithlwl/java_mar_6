@@ -1,0 +1,52 @@
+[
+  {
+    "teamName": "Gujarat Titans",
+    "team": "GT",
+    "captain": "Hardik Pandya"
+  },
+  {
+    "teamName": "Delhi Capitals",
+    "team": "DC",
+    "captain": "Rishabh Pant"
+  },
+  {
+    "teamName": "Chennai Super Kings",
+    "team": "CSK",
+    "captain": "Ravindra Jadeja"
+  },
+  {
+    "teamName": "Kolkata Knight Riders",
+    "team": "KKR",
+    "captain": "Shreyas Iyer"
+  },
+  {
+    "teamName": "Lucknow Super Giants",
+    "team": "LSG",
+    "captain": "KL Rahul "
+  },
+  {
+    "teamName": "Mumbai Indians",
+    "team": "MI",
+    "captain": "Rohit Sharma"
+  },
+  {
+    "teamName": "Punjab Kings",
+    "team": "PBKS",
+    "captain": "Mayank Agarwal"
+  },
+  {
+    "teamName": "Rajasthan Royals",
+    "team": "RR",
+    "captain": "Sanju Samson"
+  },
+  {
+    "teamName": "Royal Challengers Bangalore",
+    "team": "RCB",
+    "captain": "Faf du Plessis"
+  },
+  {
+    "teamName": "Sunrisers Hyderabad",
+    "team": "SRH",
+    "captain": "Kane Williamson"
+  }
+]
