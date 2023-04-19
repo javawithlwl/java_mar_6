@@ -11,6 +11,7 @@
         <module>cj-ipl-stats</module>
         <module>wallet-app</module>
         <module>quiz-app</module>
+        <module>emp-app</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
