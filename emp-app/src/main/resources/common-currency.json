@@ -202,7 +202,7 @@
     "name": "Swiss Franc",
     "symbol_native": "CHF",
     "decimal_digits": 2,
-    "rounding": 0.05,
+    "rounding": 0,
     "code": "CHF",
     "name_plural": "Swiss francs"
   },
