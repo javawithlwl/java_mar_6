@@ -12,6 +12,7 @@
         <module>wallet-app</module>
         <module>quiz-app</module>
         <module>emp-app</module>
+        <module>learning-jdbc</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
