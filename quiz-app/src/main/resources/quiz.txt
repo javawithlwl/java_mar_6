@@ -1,5 +1,5 @@
 #1
-Which is not a valid method of java.lang.String?
+Which of the following not a valid method of java.lang.String?
 1. length
 2. reverse
 3. subString
@@ -12,5 +12,13 @@ Which the result of 3 + 4 * 2?
 3. 11
 4. 22
 Answer: 3
+#3
+Which of the following is not valid method in list?
+1. add
+2. remove
+3. get
+4. merge
+Answer: 4
+
 
 
